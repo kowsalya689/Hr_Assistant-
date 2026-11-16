@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Secrets
 .env
 
@@ -11,3 +12,10 @@ venv/
 tmp/
 *.db
 *.lance
+=======
+.venv/
+.env
+__pycache__/
+*.pyc
+.vscode/
+>>>>>>> cbb1755a12c6f8c5850d7cd5d3e6ae843e5bea6a
